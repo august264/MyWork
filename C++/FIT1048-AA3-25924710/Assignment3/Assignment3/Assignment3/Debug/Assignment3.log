@@ -1,0 +1,6 @@
+﻿  battle.cpp
+c:\users\vincent li\desktop\fit1048\assignment3\assignment3\assignment3\battle.cpp(177): warning C4101: 'ultimate_damage': unreferenced local variable
+c:\users\vincent li\desktop\fit1048\assignment3\assignment3\assignment3\battle.cpp(275): warning C4101: 'ultimate_damage': unreferenced local variable
+c:\users\vincent li\desktop\fit1048\assignment3\assignment3\assignment3\battle.cpp(369): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment3.vcxproj -> C:\Users\Vincent Li\Desktop\FIT1048\Assignment3\Assignment3\Debug\Assignment3.exe
+  Assignment3.vcxproj -> C:\Users\Vincent Li\Desktop\FIT1048\Assignment3\Assignment3\Debug\Assignment3.pdb (Partial PDB)
